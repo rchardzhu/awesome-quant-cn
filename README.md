@@ -8,9 +8,12 @@ awesome quant中文版
 * [jqdatasdk](https://www.joinquant.com/help/api/help#name:JQData) -- 聚宽提供的本地量化金融数据服务
 * [tqsdk](https://doc.shinnytech.com/tqsdk/latest/intro.html) -- TqSdk免费版本提供全部的期货、商品/金融期权和上证50、沪深300和中证500的实时行情，TqSdk专业版可提供A股股票的实时和历史行情
 
-
 ## 回测
 
 
 ## 实盘交易
 * [vnpy](https://github.com/vnpy/vnpy) -- 基于Python的开源量化交易系统开发框架
+
+
+## 交流
+欢迎加入qq群交流，qq群号：835894006
