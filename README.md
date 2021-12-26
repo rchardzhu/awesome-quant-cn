@@ -10,7 +10,7 @@ awesome quant中文版
 * [easyquotation](https://github.com/shidenggui/easyquotation) -- 快速获取新浪/腾讯的全市场行情
 
 ## 回测
-
+* [zipline](https://github.com/quantopian/zipline) -- Quantopian开源的本地量化回测平台，可以和pyfolio和alphalen无缝衔接
 
 ## 实盘交易
 * [vnpy](https://github.com/vnpy/vnpy) -- 基于Python的开源量化交易系统开发框架
