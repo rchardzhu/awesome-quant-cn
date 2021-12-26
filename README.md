@@ -11,6 +11,7 @@ awesome quant中文版
 
 ## 回测
 * [zipline](https://github.com/quantopian/zipline) -- Quantopian开源的本地量化回测平台，可以和pyfolio和alphalen无缝衔接
+* [rqalpha](https://github.com/ricequant/rqalpha) -- Ricequant开源的本地量化回测平台，在 API 设计上和 Quantopian 保持一致
 
 ## 实盘交易
 * [vnpy](https://github.com/vnpy/vnpy) -- 基于Python的开源量化交易系统开发框架
