@@ -1,7 +1,7 @@
 # awesome-quant-cn
 awesome quant中文版
 
-## 数据源
+## 金融数据
 * [tushare](http://tushare.org/) 
 * [tushare pro](https://waditu.com/document/1?doc_id=131)
 * [yfinace](https://github.com/ranaroussi/yfinance) -- yahoo财经
@@ -9,7 +9,7 @@ awesome quant中文版
 * [tqsdk](https://doc.shinnytech.com/tqsdk/latest/intro.html) -- TqSdk免费版本提供全部的期货、商品/金融期权和上证50、沪深300和中证500的实时行情，TqSdk专业版可提供A股股票的实时和历史行情
 * [easyquotation](https://github.com/shidenggui/easyquotation) -- 快速获取新浪/腾讯的全市场行情
 
-## 回测
+## 回测引擎
 * [zipline](https://github.com/quantopian/zipline) -- Quantopian开源的本地量化回测平台，可以和pyfolio和alphalen无缝衔接
 * [rqalpha](https://github.com/ricequant/rqalpha) -- Ricequant开源的本地量化回测平台，在 API 设计上和 Quantopian 保持一致，但License完全排除商业用途
 
