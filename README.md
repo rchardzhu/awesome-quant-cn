@@ -7,6 +7,7 @@ awesome quant中文版
 * [yfinace](https://github.com/ranaroussi/yfinance) -- yahoo财经
 * [jqdatasdk](https://www.joinquant.com/help/api/help#name:JQData) -- 聚宽提供的本地量化金融数据服务
 * [tqsdk](https://doc.shinnytech.com/tqsdk/latest/intro.html) -- TqSdk免费版本提供全部的期货、商品/金融期权和上证50、沪深300和中证500的实时行情，TqSdk专业版可提供A股股票的实时和历史行情
+* [efinance](https://github.com/Micro-sheep/efinance) -- 个人打造的用于获取股票、基金、期货数据的免费开源 Python 库
 * [easyquotation](https://github.com/shidenggui/easyquotation) -- 快速获取新浪/腾讯的全市场行情
 
 ## 回测引擎
