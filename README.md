@@ -14,6 +14,7 @@ awesome quant中文版
 * [rqalpha](https://github.com/ricequant/rqalpha) -- Ricequant开源的本地量化回测平台，在 API 设计上和 Quantopian 保持一致，但License完全排除商业用途
 * [backtrader](https://github.com/mementum/backtrader) -- 纯python实现的在线交易和回测平台
 * [zvt](https://github.com/zvtvz/zvt/blob/master/README-cn.md) -- 包含可扩展的数据recorder，api，因子计算，选股，回测，交易,以及统一的可视化，抽象度较高
+* [bt](https://github.com/pmorissette/bt) -- 基于ffn打造的python回测框架， 目标是充分利用python生态，不重复造轮子
 
 ## 实盘交易
 * [vnpy](https://github.com/vnpy/vnpy) -- 基于Python的开源量化交易系统开发框架
