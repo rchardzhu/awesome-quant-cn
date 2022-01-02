@@ -2,8 +2,8 @@
 awesome quant中文版
 
 ## 金融数据
-* [tushare](http://tushare.org/) 
-* [tushare pro](https://waditu.com/document/1?doc_id=131)
+* [tushare](https://waditu.com/document/1?doc_id=131) -- 分为tushare和tushare pro。tushare pro数据覆盖范围广，接口调用简单,响应快速，但获取次数较多时有积分限制。老版api有下线风险
+* [akshare](https://github.com/akfamily/akshare) -- 基于 Python 的财经数据接口库, 目的是实现对股票、期货、期权、基金、外汇、债券、指数、加密货币等金融产品的基本面数据、实时和历史行情数据、衍生数据从数据采集、数据清洗到数据落地的一套工具
 * [yfinace](https://github.com/ranaroussi/yfinance) -- yahoo财经
 * [jqdatasdk](https://www.joinquant.com/help/api/help#name:JQData) -- 聚宽提供的本地量化金融数据服务
 * [tqsdk](https://doc.shinnytech.com/tqsdk/latest/intro.html) -- TqSdk免费版本提供全部的期货、商品/金融期权和上证50、沪深300和中证500的实时行情，TqSdk专业版可提供A股股票的实时和历史行情
