@@ -20,6 +20,8 @@ awesome quant中文版
 * [Futu OpenAPI](https://openapi.futunn.com/futu-api-doc/intro/intro.html) -- 功能主要有两部分：行情和交易。支持香港、美国、A 股市场的行情数据，涉及的品类包括股票、指数、期权、期货等；支持香港、美国、A 股、新加坡、日本 5 个市场的交易能力，涉及的品类包括股票、期权、期货等
 * [tigeropen](https://quant.itiger.com/openapi/py-docs/zh-cn/docs/intro/quickstart.html) -- 老虎开放平台提供的直接管理交易、查看帐户信息、查询行情变动及交易支持功能
 
+## 量化书籍
+* [海龟交易法则](https://book.douban.com/subject/2339892/) -- 豆瓣评分8.5分。原版海龟首次揭密适用于任何市场的交易策略
 
 ## 交流
 欢迎加入qq群交流，qq群号：835894006
