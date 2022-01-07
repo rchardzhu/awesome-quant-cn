@@ -28,8 +28,9 @@ awesome quant中文版
 * [tigeropen](https://quant.itiger.com/openapi/py-docs/zh-cn/docs/intro/quickstart.html) -- 老虎开放平台提供的直接管理交易、查看帐户信息、查询行情变动及交易支持功能
 
 ## 策略研究平台
-* [聚宽](https://www.joinquant.com/) -- 量化交易平台，提供多种数据方便投资研究；提供多种的策略评价指标与评价维度；支持多种策略的编写、回测、模拟、实盘
+* [聚宽](https://www.joinquant.com/) -- 量化平台，提供多种数据方便投资研究；提供多种的策略评价指标与评价维度；支持多种策略的编写、回测、模拟、实盘
 * [米筐](https://www.ricequant.com/) -- 米筐科技专注于为用户提供快速便捷、功能强大的量化交易和分析工具。用户可以使用基于浏览器（网上回测平台）或本地化（RQAlpha 等项目）的米筐科技产品，随时、随地开发自己的交易策略，验证自己的投资思路
+* [优矿](https://uqer.datayes.com/) -- 量化平台，使用通联书记，支持回测功能
 
 
 ## 量化书籍
