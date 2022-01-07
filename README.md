@@ -30,5 +30,8 @@ awesome quant中文版
 ## 量化书籍
 * [海龟交易法则](https://book.douban.com/subject/2339892/) -- 豆瓣评分8.5分。原版海龟首次揭密适用于任何市场的交易策略
 
+## 其他资源
+* [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) -- 可以参考
+
 ## 交流
 欢迎加入qq群交流，qq群号：835894006
