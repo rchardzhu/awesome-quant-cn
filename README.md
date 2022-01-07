@@ -1,5 +1,5 @@
 # awesome-quant-cn
-awesome quant中文版
+awesome quant中文版，最近会更新比较频繁，欢迎关注github以及加入qq群～
 
 ## 金融数据
 * [tushare](https://waditu.com/document/1?doc_id=131) -- 分为tushare和tushare pro。tushare pro数据覆盖范围广，接口调用简单,响应快速，但获取次数较多时有积分限制。老版api有下线风险
@@ -20,6 +20,7 @@ awesome quant中文版
 ## 风险分析
 * [pyfolio](https://github.com/quantopian/pyfolio) -- Quantopian开发的用于金融投资组合性能和风险分析的Python库
 * [empyrical](https://github.com/quantopian/empyrical) -- Quantopian开源的常见金融风险指标
+* [quantstats](https://github.com/ranaroussi/quantstats) -- 更深层次的python量化分析和风险指标
 
 
 ## 实盘交易
