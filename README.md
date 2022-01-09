@@ -27,6 +27,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [vnpy](https://github.com/vnpy/vnpy) -- 基于Python的开源量化交易系统开发框架
 * [Futu OpenAPI](https://openapi.futunn.com/futu-api-doc/intro/intro.html) -- 功能主要有两部分：行情和交易。支持香港、美国、A 股市场的行情数据，涉及的品类包括股票、指数、期权、期货等；支持香港、美国、A 股、新加坡、日本 5 个市场的交易能力，涉及的品类包括股票、期权、期货等
 * [tigeropen](https://quant.itiger.com/openapi/py-docs/zh-cn/docs/intro/quickstart.html) -- 老虎开放平台提供的直接管理交易、查看帐户信息、查询行情变动及交易支持功能
+* [WonderTrader](https://github.com/wondertrader/wondertrader) -- 一个基于C++核心模块的，适应全市场全品种交易的，高效率、高可用的量化交易开发框架
 
 ## 策略研究平台
 * [聚宽](https://www.joinquant.com/) -- 量化平台，提供多种数据方便投资研究；提供多种的策略评价指标与评价维度；支持多种策略的编写、回测、模拟、实盘
