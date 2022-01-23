@@ -22,6 +22,12 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [empyrical](https://github.com/quantopian/empyrical) -- Quantopian开源的常见金融风险指标
 * [quantstats](https://github.com/ranaroussi/quantstats) -- 更深层次的python量化分析和风险指标
 
+## 可视化
+* [Matplotlib](https://matplotlib.org/) -- python及numpy数值计算库的绘图lib库
+* [seaborn](https://github.com/mwaskom/seaborn) -- 基于matplotlib的python可视化lib库
+* [Bokeh](https://bokeh.org/) -- python构建的基于浏览器的交互式图形库
+* [plotly.py](https://github.com/plotly/plotly.py)--基于plotly.js构建，plotly.py是一个交互式的基于浏览器的图形库
+* [pyecharts](https://pyecharts.org/#/) -- 对Echarts的python封装，特性包括简洁的 API 设计，囊括了 30+ 种常见图表，支持主流 Notebook 环境，高度灵活的配置项，可轻松搭配出精美的图表等
 
 ## 实盘交易
 * [vnpy](https://github.com/vnpy/vnpy) -- 基于Python的开源量化交易系统开发框架
