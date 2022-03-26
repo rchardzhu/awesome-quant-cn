@@ -5,7 +5,8 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [tushare](https://waditu.com/document/1?doc_id=131) -- 分为tushare和tushare pro。tushare pro数据覆盖范围广，接口调用简单,响应快速，但获取次数较多时有积分限制。老版api有下线风险
 * [akshare](https://github.com/akfamily/akshare) -- 基于 Python 的财经数据接口库, 目的是实现对股票、期货、期权、基金、外汇、债券、指数、加密货币等金融产品的基本面数据、实时和历史行情数据、衍生数据从数据采集、数据清洗到数据落地的一套工具
 * [yfinace](https://github.com/ranaroussi/yfinance) -- yahoo财经
-* [jqdatasdk](https://www.joinquant.com/help/api/help#name:JQData) -- 聚宽提供的本地量化金融数据服务
+* [jqdatasdk](https://www.joinquant.com/help/api/help#name:JQData) -- 聚宽提供的本地量化金融数据服务。申请可以获得三个月的试用期，一个手机号仅限注册一次。[申请链接](https://www.joinquant.com/default/index/sdk?utm_campaign=JQData%E7%94%B3%E8%AF%B7&utm_medium=%E7%BD%91%E9%A1%B5&utm_source=%E8%81%9A%E5%AE%BD&gio_link_id=xRxqAjP5)
+* [rqdata](https://www.ricequant.com/welcome/pricing) -- 米筐数据服务。免费试用15天，试用账户进行了每天 50MB 的配额限制，[申请链接](https://www.ricequant.com/welcome/purchase#1)
 * [tqsdk](https://doc.shinnytech.com/tqsdk/latest/intro.html) -- TqSdk免费版本提供全部的期货、商品/金融期权和上证50、沪深300和中证500的实时行情，TqSdk专业版可提供A股股票的实时和历史行情
 * [efinance](https://github.com/Micro-sheep/efinance) -- 个人打造的用于获取股票、基金、期货数据的免费开源 Python 库
 * [easyquotation](https://github.com/shidenggui/easyquotation) -- 快速获取新浪/腾讯的全市场行情
@@ -18,8 +19,8 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [bt](https://github.com/pmorissette/bt) -- 基于ffn打造的python回测框架， 目标是充分利用python生态，不重复造轮子
 
 ## 风险分析
-* [pyfolio](https://github.com/quantopian/pyfolio) -- Quantopian开发的用于金融投资组合性能和风险分析的Python库
 * [empyrical](https://github.com/quantopian/empyrical) -- Quantopian开源的常见金融风险指标
+* [pyfolio](https://github.com/quantopian/pyfolio) -- Quantopian开源的用图形表示的金融投资组合性能和风险分析的Python库，可以参考[full_tear_sheet_example.ipynb](https://github.com/quantopian/pyfolio/blob/master/pyfolio/examples/full_tear_sheet_example.ipynb)
 * [quantstats](https://github.com/ranaroussi/quantstats) -- 更深层次的python量化分析和风险指标
 
 ## 可视化
@@ -28,6 +29,9 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [Bokeh](https://bokeh.org/) -- python构建的基于浏览器的交互式图形库
 * [plotly.py](https://github.com/plotly/plotly.py)--基于plotly.js构建，plotly.py是一个交互式的基于浏览器的图形库
 * [pyecharts](https://pyecharts.org/#/) -- 对Echarts的python封装，特性包括简洁的 API 设计，囊括了 30+ 种常见图表，支持主流 Notebook 环境，高度灵活的配置项，可轻松搭配出精美的图表等
+
+## 数据存储
+* [peewee](http://docs.peewee-orm.com/en/latest/index.html)--简单、轻量级的orm
 
 ## 实盘交易
 * [vnpy](https://github.com/vnpy/vnpy) -- 基于Python的开源量化交易系统开发框架
@@ -38,7 +42,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 ## 策略研究平台
 * [聚宽](https://www.joinquant.com/) -- 量化平台，提供多种数据方便投资研究；提供多种的策略评价指标与评价维度；支持多种策略的编写、回测、模拟、实盘
 * [米筐](https://www.ricequant.com/) -- 米筐科技专注于为用户提供快速便捷、功能强大的量化交易和分析工具。用户可以使用基于浏览器（网上回测平台）或本地化（RQAlpha 等项目）的米筐科技产品，随时、随地开发自己的交易策略，验证自己的投资思路
-* [优矿](https://uqer.datayes.com/) -- 量化平台，使用通联书记，支持回测功能
+* [优矿](https://uqer.datayes.com/) -- 量化平台，使用通联数据，支持回测功能
 
 
 ## 量化书籍
@@ -49,4 +53,6 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) -- 可以参考
 
 ## 交流
-欢迎加入qq群交流，qq群号：835894006
+* 微信公众号：诸葛说talk
+* 知乎：<https://www.zhihu.com/people/richard-zhu/posts>
+* 博客：<https://rchardzhu.github.io/>
