@@ -18,7 +18,11 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [zvt](https://github.com/zvtvz/zvt/blob/master/README-cn.md) -- 包含可扩展的数据recorder，api，因子计算，选股，回测，交易,以及统一的可视化，抽象度较高
 * [bt](https://github.com/pmorissette/bt) -- 基于ffn打造的python回测框架， 目标是充分利用python生态，不重复造轮子
 
-## 风险分析
+## 数据分析
+* [numpy](https://numpy.org/) -- python科学计算基础包，开源，高性能，支持矩阵运算
+* [pandas](https://pandas.pydata.org/) -- python数据分析工具，开源，功能强大，运行速度快
+
+## 指标&风险分析
 * [TA-Lib](https://ta-lib.org/) -- 交易软件开发广泛使用的技术分析lib，包括了200多个技术指标，如MACD, RSI等
 * [ta-lib for python](https://mrjbq7.github.io/ta-lib/) -- python封装的ta-lib
 * [empyrical](https://github.com/quantopian/empyrical) -- Quantopian开源的常见金融风险指标
@@ -46,7 +50,6 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [聚宽](https://www.joinquant.com/) -- 量化平台，提供多种数据方便投资研究；提供多种的策略评价指标与评价维度；支持多种策略的编写、回测、模拟、实盘
 * [米筐](https://www.ricequant.com/) -- 米筐科技专注于为用户提供快速便捷、功能强大的量化交易和分析工具。用户可以使用基于浏览器（网上回测平台）或本地化（RQAlpha 等项目）的米筐科技产品，随时、随地开发自己的交易策略，验证自己的投资思路
 * [优矿](https://uqer.datayes.com/) -- 量化平台，使用通联数据，支持回测功能
-
 
 ## 量化书籍
 * [海龟交易法则](https://book.douban.com/subject/2339892/) -- 豆瓣评分8.5分。原版海龟首次揭密适用于任何市场的交易策略
