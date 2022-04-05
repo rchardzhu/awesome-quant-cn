@@ -19,6 +19,8 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 * [bt](https://github.com/pmorissette/bt) -- 基于ffn打造的python回测框架， 目标是充分利用python生态，不重复造轮子
 
 ## 风险分析
+* [TA-Lib](https://ta-lib.org/) -- 交易软件开发广泛使用的技术分析lib，包括了200多个技术指标，如MACD, RSI等
+* [ta-lib for python](https://mrjbq7.github.io/ta-lib/) -- python封装的ta-lib
 * [empyrical](https://github.com/quantopian/empyrical) -- Quantopian开源的常见金融风险指标
 * [pyfolio](https://github.com/quantopian/pyfolio) -- Quantopian开源的用图形表示的金融投资组合性能和风险分析的Python库，可以参考[full_tear_sheet_example.ipynb](https://github.com/quantopian/pyfolio/blob/master/pyfolio/examples/full_tear_sheet_example.ipynb)
 * [quantstats](https://github.com/ranaroussi/quantstats) -- 更深层次的python量化分析和风险指标
@@ -32,6 +34,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 
 ## 数据存储
 * [peewee](http://docs.peewee-orm.com/en/latest/index.html)--简单、轻量级的orm
+* [bcolz](https://github.com/Blosc/bcolz) -- bcolz 压缩率高，性能好，列式存储容器，可以用来作为底层回测数据存储格式
 
 ## 实盘交易
 * [vnpy](https://github.com/vnpy/vnpy) -- 基于Python的开源量化交易系统开发框架
