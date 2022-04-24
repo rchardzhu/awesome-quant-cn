@@ -1,5 +1,5 @@
 # awesome-quant-cn
-awesome quant中文版，最近会更新比较频繁，欢迎关注github以及加入qq群～
+awesome quant中文版，最近会更新比较频繁，欢迎关注github及微信公众号～
 
 ## 金融数据
 * [tushare](https://waditu.com/document/1?doc_id=131) -- 分为tushare和tushare pro。tushare pro数据覆盖范围广，接口调用简单,响应快速，但获取次数较多时有积分限制。老版api有下线风险
@@ -24,7 +24,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 
 ## 指标&风险分析
 * [TA-Lib](https://ta-lib.org/) -- 交易软件开发广泛使用的技术分析lib，包括了200多个技术指标，如MACD, RSI等
-* [ta-lib for python](https://mrjbq7.github.io/ta-lib/) -- python封装的ta-lib
+* [ta-lib for python](https://mrjbq7.github.io/ta-lib/) -- python封装的ta-lib，使用Cython和Numpy高效实现，比使用SWIG接口的原始版本快2-4倍
 * [empyrical](https://github.com/quantopian/empyrical) -- Quantopian开源的常见金融风险指标
 * [pyfolio](https://github.com/quantopian/pyfolio) -- Quantopian开源的用图形表示的金融投资组合性能和风险分析的Python库，可以参考[full_tear_sheet_example.ipynb](https://github.com/quantopian/pyfolio/blob/master/pyfolio/examples/full_tear_sheet_example.ipynb)
 * [quantstats](https://github.com/ranaroussi/quantstats) -- 更深层次的python量化分析和风险指标
@@ -32,6 +32,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 ## 可视化
 * [Matplotlib](https://matplotlib.org/) -- python及numpy数值计算库的绘图lib库
 * [seaborn](https://github.com/mwaskom/seaborn) -- 基于matplotlib的python可视化lib库
+* [mplfinance](https://github.com/matplotlib/mplfinance) -- 使用matplotlib对金融市场数据可视化
 * [Bokeh](https://bokeh.org/) -- python构建的基于浏览器的交互式图形库
 * [plotly.py](https://github.com/plotly/plotly.py)--基于plotly.js构建，plotly.py是一个交互式的基于浏览器的图形库
 * [pyecharts](https://pyecharts.org/#/) -- 对Echarts的python封装，特性包括简洁的 API 设计，囊括了 30+ 种常见图表，支持主流 Notebook 环境，高度灵活的配置项，可轻松搭配出精美的图表等
@@ -60,5 +61,4 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github以及�
 
 ## 交流
 * 微信公众号：诸葛说talk
-* 知乎：<https://www.zhihu.com/people/richard-zhu/posts>
-* 博客：<https://rchardzhu.github.io/>
+* 博客：<https://zhugetalk.cn/>
