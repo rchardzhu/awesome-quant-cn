@@ -4,6 +4,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github及微�
 ## 金融数据
 * [tushare](https://waditu.com/document/1?doc_id=131) -- 分为tushare和tushare pro。tushare pro数据覆盖范围广，接口调用简单,响应快速，但获取次数较多时有积分限制。老版api有下线风险
 * [akshare](https://github.com/akfamily/akshare) -- 基于 Python 的财经数据接口库, 目的是实现对股票、期货、期权、基金、外汇、债券、指数、加密货币等金融产品的基本面数据、实时和历史行情数据、衍生数据从数据采集、数据清洗到数据落地的一套工具
+* [BaoStock](http://baostock.com) -- 一个免费、开源的证券数据平台（无需注册），通过python API获取证券数据信息，返回的数据格式为pandas DataFrame类型，同时支持通过BaoStock的数据存储功能，将数据全部保存到本地后进行分析
 * [yfinace](https://github.com/ranaroussi/yfinance) -- yahoo财经
 * [jqdatasdk](https://www.joinquant.com/help/api/help#name:JQData) -- 聚宽提供的本地量化金融数据服务。申请可以获得三个月的试用期，一个手机号仅限注册一次。[申请链接](https://www.joinquant.com/default/index/sdk?utm_campaign=JQData%E7%94%B3%E8%AF%B7&utm_medium=%E7%BD%91%E9%A1%B5&utm_source=%E8%81%9A%E5%AE%BD&gio_link_id=xRxqAjP5)
 * [rqdata](https://www.ricequant.com/welcome/pricing) -- 米筐数据服务。免费试用15天，试用账户进行了每天 50MB 的配额限制，[申请链接](https://www.ricequant.com/welcome/purchase#1)
@@ -17,6 +18,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github及微�
 * [backtrader](https://github.com/mementum/backtrader) -- 纯python实现的在线交易和回测平台
 * [zvt](https://github.com/zvtvz/zvt/blob/master/README-cn.md) -- 包含可扩展的数据recorder，api，因子计算，选股，回测，交易,以及统一的可视化，抽象度较高
 * [bt](https://github.com/pmorissette/bt) -- 基于ffn打造的python回测框架， 目标是充分利用python生态，不重复造轮子
+* [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) -- 支持任务调度 分布式部署的 股票/期货/期权 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 
 ## 数据分析
 * [numpy](https://numpy.org/) -- python科学计算基础包，开源，高性能，支持矩阵运算
