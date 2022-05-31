@@ -11,6 +11,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github及微�
 * [tqsdk](https://doc.shinnytech.com/tqsdk/latest/intro.html) -- TqSdk免费版本提供全部的期货、商品/金融期权和上证50、沪深300和中证500的实时行情，TqSdk专业版可提供A股股票的实时和历史行情
 * [efinance](https://github.com/Micro-sheep/efinance) -- 个人打造的用于获取股票、基金、期货数据的免费开源 Python 库
 * [easyquotation](https://github.com/shidenggui/easyquotation) -- 快速获取新浪/腾讯的全市场行情
+* [通达信](https://www.tdx.com.cn/soft.html) -- 通达信软件提供沪深盘后日线级数据下载，数据质量高，下载速度快
 * [万得Wind Data Service数据服务](https://www.wind.com.cn/NewSite/data.html) -— 约3~6w人民币/年，具体需要咨询销售，国内金融数据万得相对更全
 * [ifind](https://www.51ifind.com/index.php?c=index&a=iFinDPC) — 同花顺金融数据终端，定价约wind的1/3
 * [choice数据](https://choice.eastmoney.com/) — 东方财富数据终端，choice质量据说不如ifind
@@ -66,5 +67,5 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github及微�
 * [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) -- 可以参考
 
 ## 交流
-* 微信公众号：诸葛说talk
+* 微信公众号：诸葛说talk. 欢迎关注微信公众号，获取更多相关内容。同时还能获取邀请加入量化投资研讨微信群， 与众多量化从业者&爱好者交流、切磋，不错过最新行业发展&技术进展
 * 博客：<https://zhugetalk.cn/>
