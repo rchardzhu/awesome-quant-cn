@@ -43,6 +43,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github及微�
 * [Bokeh](https://bokeh.org/) -- python构建的基于浏览器的交互式图形库
 * [plotly.py](https://github.com/plotly/plotly.py)--基于plotly.js构建，plotly.py是一个交互式的基于浏览器的图形库
 * [pyecharts](https://pyecharts.org/#/) -- 对Echarts的python封装，特性包括简洁的 API 设计，囊括了 30+ 种常见图表，支持主流 Notebook 环境，高度灵活的配置项，可轻松搭配出精美的图表等
+* [backtrader_bokeh](https://iniself.github.io/backtrader_bokeh/) -- 使用bokeh绘图，而不是基于matplotlib绘图
 
 ## 数据存储
 * [peewee](http://docs.peewee-orm.com/en/latest/index.html)--简单、轻量级的orm
@@ -67,5 +68,5 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github及微�
 * [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) -- 可以参考
 
 ## 交流
-* 微信公众号：诸葛说talk. 欢迎关注微信公众号，获取更多相关内容。同时还能获取邀请加入量化投资研讨微信群， 与众多量化从业者&爱好者交流、切磋，不错过最新行业发展&技术进展
-* 博客：<https://zhugetalk.cn/>
+* 量化微信公众号：诸葛说talk. 欢迎关注微信公众号，获取更多相关内容。同时还能获取邀请加入量化投资研讨微信群， 与众多量化从业者&爱好者交流、切磋，不错过最新行业发展&技术进展
+* 量化博客：<https://zhugetalk.cn/>
