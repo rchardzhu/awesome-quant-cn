@@ -1,5 +1,6 @@
 # awesome-quant-cn
-awesome quant中文版，最近会更新比较频繁，欢迎关注github及微信公众号～
+国内量化资源相对是比较匮乏的，个人花了比较多的时间学习整理成了这个awesome quant中文版，希望大家点赞，让更多的人知道和一起贡献。
+最近会更新比较频繁，欢迎关注github及微信公众号～
 
 ## 金融数据
 * [tushare](https://waditu.com/document/1?doc_id=131) -- 分为tushare和tushare pro。tushare pro数据覆盖范围广，接口调用简单,响应快速，但获取次数较多时有积分限制。老版api有下线风险
@@ -18,6 +19,7 @@ awesome quant中文版，最近会更新比较频繁，欢迎关注github及微�
 *  [彭博bloomberg数据服务](https://www.bloombergchina.com/solution/data-content/) — 约2w刀/年，具体需要咨询销售
 
 ## 回测引擎
+* [qlib](https://github.com/microsoft/qlib) -- 微软开源的量化平台，目标是在量化投资中创造ai技术的价值，可以方便进行量化策略调研，它包含了包括数据处理、模型训练和回测等整个机器学习pipeline，覆盖了量化投资的各个环节：寻找alpha，风险建模，组合优化和订单执行
 * [zipline](https://github.com/quantopian/zipline) -- Quantopian开源的本地量化回测平台，可以和pyfolio和alphalen无缝衔接
 * [rqalpha](https://github.com/ricequant/rqalpha) -- Ricequant开源的本地量化回测平台，在 API 设计上和 Quantopian 保持一致，但License完全排除商业用途
 * [backtrader](https://github.com/mementum/backtrader) -- 纯python实现的在线交易和回测平台
