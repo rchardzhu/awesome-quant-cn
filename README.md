@@ -47,6 +47,11 @@
 * [pyecharts](https://pyecharts.org/#/) -- 对Echarts的python封装，特性包括简洁的 API 设计，囊括了 30+ 种常见图表，支持主流 Notebook 环境，高度灵活的配置项，可轻松搭配出精美的图表等
 * [backtrader_bokeh](https://iniself.github.io/backtrader_bokeh/) -- 使用bokeh绘图，而不是基于matplotlib绘图
 
+## 常用技术指标
+* [EMA、SMA指标](https://mp.weixin.qq.com/s/aNrXrDqPA0e0np_r8BT5aA) -- 介绍MA、EMA、SMA指标的技术原理
+* [MACD指标](https://mp.weixin.qq.com/s/bku-1Y6oCwj00qBFLseWXA) -- 介绍MACD指标的技术原理
+* [KDJ指标](https://mp.weixin.qq.com/s/OFygNNmdkdV83l3JHUB8DQ) -- 介绍KDJ指标的技术原理
+
 ## 数据存储
 * [peewee](http://docs.peewee-orm.com/en/latest/index.html)--简单、轻量级的orm
 * [bcolz](https://github.com/Blosc/bcolz) -- bcolz 压缩率高，性能好，列式存储容器，可以用来作为底层回测数据存储格式
