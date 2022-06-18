@@ -52,6 +52,7 @@
 * [EMA、SMA指标](https://mp.weixin.qq.com/s/aNrXrDqPA0e0np_r8BT5aA) -- 介绍MA、EMA、SMA指标的技术原理
 * [MACD指标](https://mp.weixin.qq.com/s/bku-1Y6oCwj00qBFLseWXA) -- 介绍MACD指标的技术原理
 * [KDJ指标](https://mp.weixin.qq.com/s/OFygNNmdkdV83l3JHUB8DQ) -- 介绍KDJ指标的技术原理
+* [RSI指标](https://mp.weixin.qq.com/s/jTHEAPJP1f6Ro5N3_14vwA) -- 介绍RSI指标的技术原理
 
 ## 数据存储
 * [peewee](http://docs.peewee-orm.com/en/latest/index.html)--简单、轻量级的orm
