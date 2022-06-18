@@ -46,6 +46,7 @@
 * [plotly.py](https://github.com/plotly/plotly.py)--基于plotly.js构建，plotly.py是一个交互式的基于浏览器的图形库
 * [pyecharts](https://pyecharts.org/#/) -- 对Echarts的python封装，特性包括简洁的 API 设计，囊括了 30+ 种常见图表，支持主流 Notebook 环境，高度灵活的配置项，可轻松搭配出精美的图表等
 * [backtrader_bokeh](https://iniself.github.io/backtrader_bokeh/) -- 使用bokeh绘图，而不是基于matplotlib绘图
+* [finplot](https://github.com/highfestiva/finplot) -- finance plot, 相比mpl_finance, plotly和Bokeh性能突出，可以实时更新数据，操作简单
 
 ## 常用技术指标
 * [EMA、SMA指标](https://mp.weixin.qq.com/s/aNrXrDqPA0e0np_r8BT5aA) -- 介绍MA、EMA、SMA指标的技术原理
